@@ -1,0 +1,24 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor folders
+.vscode/
+.idea/
+
+# Node modules (if present)
+node_modules/
+
+# Temp files
+*.tmp
+*.swp
+*.swo
+
+# OS-specific
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
